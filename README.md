@@ -1,0 +1,2 @@
+# ElasticMail
+.NET DSN Resolver
